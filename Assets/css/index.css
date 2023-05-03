@@ -403,6 +403,9 @@ img {
     bottom: 0;
     right: 0;
     display: flex;
+    justify-content: center;
+    width: 6rem;
+    height: 4rem;
     padding: .625rem .813rem;
     border-radius: .5rem 0 .5rem 0;
 }
