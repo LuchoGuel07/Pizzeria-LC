@@ -129,7 +129,7 @@ configuración que especifica las propiedades de animación para los elementos q
 desplazamiento. */
 const sr = ScrollReveal({
     origin: 'top',
-    distance: '30px',
+    distance: '20px',
     duration: 2000,
     reset: true
 });
